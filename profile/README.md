@@ -7,5 +7,5 @@ Also, find the current ADEM specification [here](https://adem-wg.github.io/adem-
 Notably, this organization provides the code repositories for:
 
 - The formal security proofs of ADEM ([adem-wg/adem-proofs](https://github.com/adem-wg/adem-proofs))
-- The ADEM specification ([adem-wg/adem-spec](https://github.com/adem-wg/adem-spec))
+- The ADEM specification ([adem-wg/adem-core-spec](https://github.com/adem-wg/adem-core-spec) and [adem-wg/adem-dns-spec](https://github.com/adem-wg/adem-dns-spec))
 - ADEM prototypes ([adem-wg/adem-proto](https://github.com/adem-wg/adem-proto))
